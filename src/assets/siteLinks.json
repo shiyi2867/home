@@ -12,7 +12,7 @@
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "file:///home/Music/"
+    "link": "file:///home/music.html/"
   },
   {
     "icon": "Compass",
